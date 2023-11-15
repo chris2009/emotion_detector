@@ -1,1 +1,1 @@
-# emotion_detector
+# Repository for final project
